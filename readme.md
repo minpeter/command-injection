@@ -24,6 +24,6 @@ docker run --rm -p 1337:1337 sandbox
 
 ## 플래그
 ```
-hsoc{DumMy_flag}
+HSOC{DumMy_flag}
 ```
 **flag.txt 파일은 더미 플래그입니다!!**
