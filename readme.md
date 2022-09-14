@@ -1,4 +1,4 @@
-## 교도소 탈출
+# 교도소 탈출
 
 ## 시나리오
 
@@ -24,7 +24,7 @@ docker run --rm -p 1337:1337 sandbox
 
 ## 플래그
 ```
-hsoc{7HErE_HACKEr5!_h0w_4bouT_piNG_pInG_pIn9_ANywH3r3?}
+HSOC{7HErE_HACKEr5!_h0w_4bouT_piNG_pInG_pIn9_ANywH3r3?}
 ```
 
 ## [문제 풀이](/solution.md)
