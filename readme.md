@@ -18,8 +18,8 @@
 
 ## 서버 실행
 ```bash
-docker build -t sandbox .
-docker run --rm -p 1337:1337 sandbox
+docker build -t commandinjection .
+docker run --rm -p 1337:1337 commandinjection
 ```
 
 ## 플래그
